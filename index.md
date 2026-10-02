@@ -30,7 +30,7 @@ Program management professional with over five years of experience supporting Na
 
  Prepared and processed over 200 intern Memorandums of Understanding
 
- Years: 2024-2024
+ Years: 2023-2024
  
 ## Education
 
