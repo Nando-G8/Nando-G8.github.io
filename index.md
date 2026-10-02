@@ -17,6 +17,7 @@ Program management professional with over five years of experience supporting Na
 
 ## Work Experience
  ###Business Manager - Veterans to Naval Careers###
+
  Manage and project spending of a 12.5 million dollar federal grant
 
  Process over 3 million dollars in intern stipends
@@ -24,6 +25,7 @@ Program management professional with over five years of experience supporting Na
  Years: 2025-Present
 
  ###Business Coordinator - Veterans to Naval Careers###
+ 
  Manage program communication to interns
 
  Prepared and processed over 200 intern Memorandums of Understanding
