@@ -21,7 +21,11 @@ Program management professional with over five years of experience supporting Na
 
  Manage and project spending of a 12.5 million dollar federal grant
 
+ Complete monthly expense reviews, identify financial discrepancies, and prepare correction documents so program and university records remain aligned
+
  Process over 3 million dollars in intern stipends
+
+ Complete and submit badging documents for four secured Department of Defense installations
  
  Years: 2025-Present
 
@@ -30,6 +34,10 @@ Program management professional with over five years of experience supporting Na
  Manage program communication to interns
 
  Prepared and processed over 200 intern Memorandums of Understanding
+
+ Supervise and train 13 intern and Department of Veterans Affairs work-study employees, set priorities, and answer policy and process questions, and follow-up up on deadlines and work quality
+
+ Prepared more than 80 travel reimbursements totaling $142,167 and kept supporting documentation organized for review and payment 
 
  Years: 2023-2024
  
