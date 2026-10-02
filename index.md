@@ -1,57 +1,66 @@
 # Fernando Green
 
-## Summary 
+## Summary
 
-Program management professional with over five years of experience supporting Navy-funded workforce development programs. I started as an intern and worked my way into a business leadership role, gaining hands-on experience with nearly every part of the program along the way. My background includes managing grant budgets and program funds, preparing reports for the Navy, working closely with university and government partners, supporting interns and program participants, and improving processes as the program has grown. I also have experience leading teams and managing the day-to-day work that keeps a large, federally funded program running.
+Program management professional with over five years of experience supporting Navy-funded workforce development programs. I started as an intern and worked my way into a business leadership role, gaining hands-on experience in workforce development, stakeholder coordination, and operational improvement. I am now building on that foundation by developing technical skills in business analytics, data management, and project execution.
 
 ## Skills
 
-- Budget Forecasting
- 
-- Team Supervision
- 
-- Project Coordination
- 
-- Salesforce
- 
-- Bilingual English/Spanish
+- **Budget Forecasting**
+- **Team Supervision**
+- **Project Coordination**
+- **Salesforce**
+- **Bilingual English/Spanish**
+- *Problem Solving*
+- *Stakeholder Communication*
+- `Python`
+- `GitHub`
+- `Microsoft Excel`
 
 ## Work Experience
- 
-### Business Manager - Veterans to Naval Careers *2025-Present*
 
- Manage and project spending of a 12.5 million dollar federal grant
+### Business Operations Manager — Veterans to Naval Careers
+- Led program operations and coordinated cross-functional teams
+- Managed implementation timelines, budgets, and reporting requirements
+- Improved communication across stakeholders and ensured successful project delivery
+- Supported workforce development initiatives and operational planning
 
- Complete monthly expense reviews, identify financial discrepancies, and prepare correction documents so program and university records remain aligned
+### Business Coordinator — Veterans to Naval Careers
+- Assisted with planning and execution of program activities
+- Maintained program documentation and stakeholder communication
+- Supported reporting, scheduling, and process improvements
+- Worked closely with leadership to ensure project milestones were met
 
- Process over 3 million dollars in intern stipends
+## Projects
 
- Complete and submit badging documents for four secured Department of Defense installations
+### Workforce Development Portfolio
+- Built and maintained a portfolio of program initiatives supporting workforce development goals
+- Used `Salesforce` and reporting tools to track progress and outcomes
+- Improved visibility into program performance and staffing needs
 
-### Business Coordinator - Veterans to Naval Careers *2023-2024*
- 
- Manage program communication to interns
+### Analytics and Reporting Project
+- Developed a structured approach to business reporting and performance tracking
+- Focused on process improvement and actionable metrics
+- Strengthened understanding of data-driven decision-making and project management
 
- Prepared and processed over 200 intern Memorandums of Understanding
-
- Supervise and train 13 intern and Department of Veterans Affairs work-study employees, set priorities, and answer policy and process questions, and follow-up up on deadlines and work quality
-
- Prepared more than 80 travel reimbursements totaling $142,167 and kept supporting documentation organized for review and payment 
-
-### Business Administration Intern - Veterans to Naval Careers *2020 - 2022*
-
- Supported an Office of Naval Research-funded internship program that placed student veterans on Department of the Navy research and workforce projects
-
- Handled full-cycle administration for more than 100 interns, including recruiting support, screening, onboarding, participant records, routine communications, and offboarding
-
-Helped establish standard operating procedures for recruiting, onboarding, communications, data collection, and record retention
- 
 ## Education
 
 ### California State University San Marcos
- **Master of Science in Business Analytics**
- *August, 2027*
- 
- **Bachelor of Science in Business Administration**
- *Decemeber, 2022*
- 
+- **Master of Science in Business Analytics**
+- *August, 2027*
+
+- **Bachelor of Science in Business Administration**
+- *December, 2022*
+
+## Professional Highlights
+
+1. Managed complex workforce development initiatives across multiple stakeholders
+2. Improved program coordination and reporting processes
+3. Built leadership experience through operational and team support roles
+4. Continued growing technical skills in analytics, project management, and data tools
+
+## Contact
+
+- GitHub: [github.com/Nando-G8](https://github.com/Nando-G8)
+- LinkedIn: [linkedin.com](www.linkedin.com/in/fernando-green)
+- Email: green268@csusm.edu
