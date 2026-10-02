@@ -15,6 +15,21 @@ Program management professional with over five years of experience supporting Na
  
  *Bilingual English/Spanish*
 
+## Work Experience
+ ###Business Manager - Veterans to Naval Careers###
+ Manage and project spending of a 12.5 million dollar federal grant
+
+ Process over 3 million dollars in intern stipends
+ 
+ Years: 2025-Present
+
+ ###Business Coordinator - Veterans to Naval Careers###
+ Manage program communication to interns
+
+ Prepared and processed over 200 intern Memorandums of Understanding
+
+ Years: 2024-2024
+ 
 ## Education
 
 ### California State University San Marcos
