@@ -19,7 +19,7 @@ Program management professional with over five years of experience supporting Na
 
 ## Work Experience
 
-### Business Operations Manager — Veterans to Naval Careers
+### Business Manager — Veterans to Naval Careers
 - Led program operations and coordinated cross-functional teams
 - Managed implementation timelines, budgets, and reporting requirements
 - Improved communication across stakeholders and ensured successful project delivery
