@@ -62,5 +62,5 @@ Program management professional with over five years of experience supporting Na
 ## Contact
 
 - GitHub: [github.com/Nando-G8](https://github.com/Nando-G8)
-- LinkedIn: [linkedin.com](www.linkedin.com/in/fernando-green)
+- LinkedIn: [linkedin.com/in/fernando-green](https://linkedin.com/in/fernando-green)
 - Email: green268@csusm.edu
