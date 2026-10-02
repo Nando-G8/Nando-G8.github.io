@@ -17,7 +17,7 @@ Program management professional with over five years of experience supporting Na
 
 ## Work Experience
  
-### Business Manager - Veterans to Naval Careers 2025-Present
+### Business Manager - Veterans to Naval Careers *2025-Present*
 
  Manage and project spending of a 12.5 million dollar federal grant
 
@@ -27,7 +27,7 @@ Program management professional with over five years of experience supporting Na
 
  Complete and submit badging documents for four secured Department of Defense installations
 
-### Business Coordinator - Veterans to Naval Careers 2023-2024
+### Business Coordinator - Veterans to Naval Careers *2023-2024*
  
  Manage program communication to interns
 
@@ -37,7 +37,7 @@ Program management professional with over five years of experience supporting Na
 
  Prepared more than 80 travel reimbursements totaling $142,167 and kept supporting documentation organized for review and payment 
 
- ### Business Administration Intern - Veterans to Naval Careers 2020 - 2022
+ ### Business Administration Intern - Veterans to Naval Careers *2020 - 2022*
 
  Supported an Office of Naval Research-funded internship program that placed student veterans on Department of the Navy research and workforce projects
 
