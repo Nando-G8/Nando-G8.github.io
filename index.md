@@ -16,7 +16,7 @@ Program management professional with over five years of experience supporting Na
  *Bilingual English/Spanish*
 
 ## Work Experience
- ###Business Manager - Veterans to Naval Careers###
+ ### Business Manager - Veterans to Naval Careers
 
  Manage and project spending of a 12.5 million dollar federal grant
 
@@ -24,7 +24,7 @@ Program management professional with over five years of experience supporting Na
  
  Years: 2025-Present
 
- ###Business Coordinator - Veterans to Naval Careers###
+ ### Business Coordinator - Veterans to Naval Careers
  
  Manage program communication to interns
 
