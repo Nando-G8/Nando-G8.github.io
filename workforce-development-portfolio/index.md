@@ -199,7 +199,7 @@ Once you have double checked everything and it is to your satisfaction, commit c
 
 After deployment completes, visit your website in a browser:
 
-https://<your_github_username>.github.io
+https://your_github_username.github.io
 
 ### If the page loads and shows your updated content, the site has been successfully deployed.
 
