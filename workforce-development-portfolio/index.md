@@ -184,7 +184,7 @@ Delete the starter text and write your own information.
 4. skills
 5. contact information
 
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
+- GitHub: [github.com/yourusername]
 - Email: yourname@example.com
 
 ### 7.3 Include personal and professional content
@@ -199,7 +199,7 @@ Once you have double checked everything and it is to your satisfaction, commit c
 
 After deployment completes, visit your website in a browser:
 
-https://your_github_username.github.io
+[https://your_github_username.github.io]
 
 ### If the page loads and shows your updated content, the site has been successfully deployed.
 
