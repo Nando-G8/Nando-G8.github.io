@@ -65,4 +65,4 @@ Program management professional with over five years of experience supporting Na
 
 ## Completed Projects
 
-[View my creating an e-portfolio guide]<https://nando-g8.github.io/workforce-development-portfolio/>
+[View my e-portfolio guide](https://nando-g8.github.io/workforce-development-portfolio/)
