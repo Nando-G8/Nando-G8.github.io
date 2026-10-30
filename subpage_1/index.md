@@ -39,13 +39,10 @@ You can use GitHub Desktop or the VS Code terminal.
 
 ### 2.2 Clone the repository
 
-bash
-git clone https://github.com/<your_github_username>/<your_github_username>.github.io.git
-
 Example:
 
 bash
-git clone https://github.com/Nando-G8/Nando-G8.github.io.git
+git clone https://github.com/your_folder/your_github_username.github.io.git
 This creates a local folder on your computer where you can edit files and push changes back to GitHub.
 
 ## Step 3: Download the Minimal GitHub Pages Project
