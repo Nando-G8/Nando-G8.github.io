@@ -17,7 +17,8 @@ GitHub Pages is a free and simple way to host a personal website directly from y
 - deploy the site and verify it is live
 
 ## Step 1: Create Your Personal GitHub Pages Repository
-1.1 Sign in to GitHub
+
+### 1.1 Sign in to GitHub
 Go to GitHub and sign in to your account.
 
 ### 1.2 Create a new repository
