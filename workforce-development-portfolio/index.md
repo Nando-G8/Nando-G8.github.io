@@ -195,21 +195,7 @@ Add information relevant to your academic and professional background
 
 Once you have double checked everything and it is to your satisfaction, commit changes and push 
 
-## Step 9: Check GitHub Pages Deployment
-
-### 9.1 Open your repository on GitHub
-
-Go to:
-https://github.com/<your_github_username>/<your_github_username>.github.io
-
-Check whether the GitHub Pages deployment is running successfully.
-
-
-### 9.2 Confirm that deployment succeeded
-
-If the build finishes successfully, GitHub Pages will publish your site.
-
-## Step 10: View Your Live Portfolio Website
+## Step 9: View Your Live Portfolio Website
 
 After deployment completes, visit your website in a browser:
 
