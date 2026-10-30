@@ -23,7 +23,8 @@ Go to GitHub and sign in to your account.
 
 ### 1.2 Create a new repository
 Create a repository with this exact naming pattern:
-<your_github_username>.github.io
+
+your_github_username.github.io
 
 ### 1.3 Set the repository visibility
 Choose the repository to be public or private. For GitHub Pages, public is the normal choice because the site must be viewable through the browser.
