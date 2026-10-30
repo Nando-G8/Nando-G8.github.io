@@ -219,8 +219,4 @@ https://<your_github_username>.github.io
 
 ### Here is a screenshot of my complete e-portfolio
 
-<img
-  src="https://github.com/user-attachments/assets/31093d74-0cdc-4284-a021-71b6745ace60"
-  alt="e-portfolio screenshot"
-  style="max-width: 800px; width: 100%; height: auto; display: block; margin: 1rem auto; border: 1px solid #ddd; border-radius: 8px;"
->
+![E-portfolio screenshot](https://github.com/user-attachments/assets/31093d74-0cdc-4284-a021-71b6745ace60)
