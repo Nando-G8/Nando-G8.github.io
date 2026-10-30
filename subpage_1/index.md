@@ -50,7 +50,10 @@ This creates a local folder on your computer where you can edit files and push c
 ## Step 3: Download the Minimal GitHub Pages Project
 
 ### 3.1 Download the project files
-Download the entire minimal project 
+Minimal Theme Link: 
+[https://github.com/pages-themes/minimal](https://github.com/pages-themes/minimal)
+
+### Download the entire minimal project 
 <img width="924" height="607" alt="image" src="https://github.com/user-attachments/assets/4c3b5948-c21a-4f2f-af86-eb99aeec761e" />
 
 
@@ -194,8 +197,3 @@ Text
 https://<your_github_username>.github.io
 
 ### If the page loads and shows your updated content, the site has been successfully deployed.
-
-Links:
-Minimal Theme 
-[https://github.com/pages-themes/minimal](https://github.com/pages-themes/minimal)
-
