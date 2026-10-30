@@ -205,11 +205,11 @@ https://github.com/<your_github_username>/<your_github_username>.github.io
 Check whether the GitHub Pages deployment is running successfully.
 
 
-## 9.2 Confirm that deployment succeeded
+### 9.2 Confirm that deployment succeeded
 
 If the build finishes successfully, GitHub Pages will publish your site.
 
-### Step 10: View Your Live Portfolio Website
+## Step 10: View Your Live Portfolio Website
 
 After deployment completes, visit your website in a browser:
 
