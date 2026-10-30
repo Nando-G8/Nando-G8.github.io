@@ -219,5 +219,6 @@ https://<your_github_username>.github.io
 
 ### Here is a screenshot of my complete e-portfolio
 
-assets/img/e-portfolio_screenshot.png
+<img width="1401" height="3564" alt="e-portfolio_screenshot" src="https://github.com/user-attachments/assets/31093d74-0cdc-4284-a021-71b6745ace60" />
+
 
