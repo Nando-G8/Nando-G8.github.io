@@ -32,7 +32,8 @@ Choose the repository to be public or private. For GitHub Pages, public is the n
 Once the repository is created, it will act as the home for your website.
 
 ## Step 2: Clone the Repository to Your Computer
-2.1 Open your terminal or Git client
+
+### 2.1 Open your terminal or Git client
 You can use GitHub Desktop or the VS Code terminal.
 
 ### 2.2 Clone the repository
@@ -47,7 +48,8 @@ git clone https://github.com/Nando-G8/Nando-G8.github.io.git
 This creates a local folder on your computer where you can edit files and push changes back to GitHub.
 
 ## Step 3: Download the Minimal GitHub Pages Project
-3.1 Download the project files
+
+### 3.1 Download the project files
 Download the entire minimal project 
 <img width="924" height="607" alt="image" src="https://github.com/user-attachments/assets/4c3b5948-c21a-4f2f-af86-eb99aeec761e" />
 
@@ -64,7 +66,8 @@ index.md
 This is the file that will serve as the home page of your e-portfolio.
 
 ## Step 4: Commit and Push the Initial Project Files
-4.1 Check the files in your repository
+
+### 4.1 Check the files in your repository
 Open your repo folder and confirm that the project files are present.
 
 ### 4.2 Add the files to Git
@@ -72,12 +75,14 @@ Run:
 
 bash
 git add .
-4.3 Commit the changes
+
+### 4.3 Commit the changes
 Run:
 
 bash
 git commit -m "Initial GitHub Pages setup"
-4.4 Push to GitHub
+
+### 4.4 Push to GitHub
 Run:
 
 bash
@@ -87,7 +92,8 @@ If your repository uses a different default branch name, replace main with the c
 ### At this point, you have successfully set up the foundation for your GitHub Pages project.
 
 ## Step 5: Set Up the Theme Using the Project Instructions
-5.1 Read the README file
+
+### 5.1 Read the README file
 Open the README.md file included in the project.
 
 ### 5.2 Follow the “Usage” section
