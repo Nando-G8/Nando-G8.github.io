@@ -216,3 +216,8 @@ After deployment completes, visit your website in a browser:
 https://<your_github_username>.github.io
 
 ### If the page loads and shows your updated content, the site has been successfully deployed.
+
+### Here is a screenshot of my complete e-portfolio
+
+<img width="1401" height="3564" alt="nando-g8 github io_" src="https://github.com/user-attachments/assets/a355b4c7-6315-43fa-81b4-f5a10f2f8afa" />
+
