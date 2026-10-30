@@ -32,7 +32,7 @@ your_github_username.github.io
 
 ### 1.3 Set the repository visibility
 
-Choose the repository to be public or private. For GitHub Pages, public is the normal choice because the site must be viewable through the browser.
+You will be asked if the repository should be public or private, make sure you select public because the site must be viewable online.
 
 ### 1.4 Create the repository
 
@@ -55,11 +55,9 @@ This creates a local folder on your computer where you can edit files and push c
 
 ## Step 3: Download the Minimal GitHub Pages Project
 
-### 3.1 Download the project files
+### 3.1 Download the entire minimal theme files
 Minimal Theme Link: 
 [https://github.com/pages-themes/minimal](https://github.com/pages-themes/minimal)
-
-### Download the entire minimal project 
 
 <img width="924" height="607" alt="image" src="https://github.com/user-attachments/assets/4c3b5948-c21a-4f2f-af86-eb99aeec761e" />
 
@@ -68,7 +66,7 @@ Minimal Theme Link:
 
 If the project was downloaded as a zip file, extract it.
 
-### 3.3 Place the downloaded project in your repository folder
+### 3.3 Place the downloaded files in your repository folder
 
 Move the extracted project files into the local repository directory you cloned in Step 2.
 
@@ -94,15 +92,16 @@ Run:
 
 bash
 git push origin main
+
 If your repository uses a different default branch name, replace main with the correct branch name.
 
-### At this point, you have successfully set up the foundation for your GitHub Pages project.
+### At this point, you have successfully set up the foundation for your GitHub Pages site.
 
-## Step 5: Set Up the Theme Using the Project Instructions
+## Step 5: Set Up the Theme
 
 ### 5.1 Read the README file
 
-Open the README.md file included in the project.
+Open the README.md file.
 
 ### 5.2 Follow the “Usage” section
 
