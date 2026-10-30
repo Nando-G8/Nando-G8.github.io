@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Subpage 1
+title: Workforce Development Portfolio
 ---
 
 # Creating a Personal GitHub Pages Site and E-Portfolio
