@@ -1,5 +1,3 @@
-# Fernando Green
-
 ## Summary
 
 Program management professional with over five years of experience supporting Navy-funded workforce development programs. I started as an intern and worked my way into a business leadership role, gaining hands-on experience in workforce development, stakeholder coordination, and operational improvement. I am now building on that foundation by developing technical skills in business analytics, data management, and project execution.
